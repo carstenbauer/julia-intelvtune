@@ -1,4 +1,4 @@
-# Julia + Intel VTune
+# Julia + Intel VTune Demo
 
 ## Preparation
 * Build Julia from source
