@@ -2,7 +2,7 @@
 
 ## Preparation
 * Build Julia from source
-  * Modules: I used `ml devel/CMake/3.23.1-GCCcore-11.3.0` and `ml compiler/GCC/11.2.0`
+  * Modules used on the Noctua 1 cluster at the [Paderborn Center for Parallel Computing (PC2)](https://pc2.uni-paderborn.de), see `modules_noctua1.sh`.
   * Then, I cloned the [Julia source code](https://github.com/JuliaLang/julia), perhaps not master but a specific release (I used the `release-1.9` branch), and created a `Make.user` file with the following content
   ```
   USE_INTEL_JITEVENTS=1
