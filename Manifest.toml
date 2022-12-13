@@ -1,0 +1,12 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.9.0-alpha1"
+manifest_format = "2.0"
+project_hash = "91bf9a77095be97571482c01c67914f8eda1f373"
+
+[[deps.IntelITT]]
+git-tree-sha1 = "27a9f3403fe636b9214f7cb077fc96884925addb"
+repo-rev = "main"
+repo-url = "https://github.com/JuliaPerf/IntelITT.jl"
+uuid = "c9b2f978-7543-4802-ae44-75068f23ee64"
+version = "0.1.0"

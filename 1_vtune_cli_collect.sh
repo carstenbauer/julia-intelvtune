@@ -1,0 +1,1 @@
+ENABLE_JITPROFILING=1 INTEL_JIT_BACKWARD_COMPATIBILITY=1 vtune -collect hotspots -start-paused -- /upb/departments/pc2/groups/pc2-mitarbeiter/bauerc/software/julia/julia-jitevents/bin/julia --project code_intelitt.jl

@@ -1,0 +1,116 @@
+# AMPLXE_PERF_STAT
+# hostname : ln-0002
+# os release : 4.18.0-348.el8.x86_64
+# arch : x86_64
+# cpuid : GenuineIntel,6,85,4
+# cpudesc : Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz
+# total memory : 196458884 kB
+# nrcpus online : 40
+# nrcpus avail : 40
+# sibling cores : 0-19
+# sibling cores : 20-39
+# sibling threads : 0
+# sibling threads : 1
+# sibling threads : 2
+# sibling threads : 3
+# sibling threads : 4
+# sibling threads : 5
+# sibling threads : 6
+# sibling threads : 7
+# sibling threads : 8
+# sibling threads : 9
+# sibling threads : 10
+# sibling threads : 11
+# sibling threads : 12
+# sibling threads : 13
+# sibling threads : 14
+# sibling threads : 15
+# sibling threads : 16
+# sibling threads : 17
+# sibling threads : 18
+# sibling threads : 19
+# sibling threads : 20
+# sibling threads : 21
+# sibling threads : 22
+# sibling threads : 23
+# sibling threads : 24
+# sibling threads : 25
+# sibling threads : 26
+# sibling threads : 27
+# sibling threads : 28
+# sibling threads : 29
+# sibling threads : 30
+# sibling threads : 31
+# sibling threads : 32
+# sibling threads : 33
+# sibling threads : 34
+# sibling threads : 35
+# sibling threads : 36
+# sibling threads : 37
+# sibling threads : 38
+# sibling threads : 39
+# process id : 1783668
+;;<not counted>;0
+;;<not counted>;1
+;;<not counted>;2
+;;<not counted>;3
+;;<not counted>;4
+;;<not counted>;5
+;;<not counted>;6
+;;<not counted>;7
+;;<not counted>;8
+;;<not counted>;9
+;;<not counted>;10
+;;<not counted>;11
+;;<not counted>;12
+;;<not counted>;13
+;;<not counted>;14
+;;<not counted>;15
+;;2158835361;0
+;;1445514384;1
+;;4766428182;2
+;;15044152;3
+;;15051986;4
+;;258;5
+;;0;6
+;;0;7
+;;142991652;8
+;;51159032;9
+;;28446428;10
+;;878574;11
+;;2555479101;12
+;;5097451882;13
+;;5960;14
+;;0;15
+;;2878447148;0
+;;1927352512;1
+;;6355237577;2
+;;20058869;3
+;;20069314;4
+;;344;5
+;;0;6
+;;0;7
+;;190655535;8
+;;68212042;9
+;;37928571;10
+;;1171431;11
+;;3407305468;12
+;;6796602509;13
+;;7947;14
+;;0;15
+;;3238253042;0
+;;2168271576;1
+;;7149642274;2
+;;22566227;3
+;;22577978;4
+;;387;5
+;;0;6
+;;0;7
+;;214487477;8
+;;76738547;9
+;;42669643;10
+;;1317860;11
+;;3833218652;12
+;;7646177823;13
+;;8941;14
+;;0;15
